@@ -1,3 +1,13 @@
+# Ask-Your-Chat
+
+This repository contains a fork of the original Chat-Your-Data app and has been modified to work with Telegram exported chats. 
+
+With this modification, you can now feed messages from your Telegram chats to LLM (Language Model) to get relevant answers.
+
+*Original README below:*
+
+---
+
 # Chat-Your-Data
 
 Create a ChatGPT like experience over your custom docs using [LangChain](https://github.com/hwchase17/langchain).
